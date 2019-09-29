@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi There! Now with composer
+          Hi There! I was changed with a feature branch. This is cool full automation test. 
         </a>
       </header>
     </div>
